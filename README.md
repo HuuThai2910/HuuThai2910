@@ -43,7 +43,7 @@
 - 📱 Expand into **React Native** for mobile development
 - 🎨 Enhance **UI/UX design** skills
 
-📫 **Reach me at:** [nguyentannghi5722@gmail.com](mailto:nguyentannghi5722@gmail.com)
+📫 **Reach me at:** [levanhuuthai2004@gmail.com](levanhuuthai2004@gmail.com)
 
 ---
 
