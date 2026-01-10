@@ -331,7 +331,7 @@ graph TD
 
 ```typescript
 const nghiProfile = {
-  name: "Nguyễn Tấn Nghị",
+  name: "Lê Văn Hửu Thái",
   role: "Full-Stack Developer",
   location: "Ho Chi Minh City, Vietnam",
   education: "Software Engineering @ IUH",
