@@ -31,10 +31,9 @@
 ### 💻 What I Do
 
 - 🔥 Build **scalable web applications** with **React** ecosystem
-- 🛠️ Develop **RESTful APIs** using **Node.js** and **Express**
-- 🗄️ Design **database schemas** with **MongoDB** and **MySQL**
+- 🔧 Develop **RESTful APIs** using **Java (Spring Boot)**, **Node.js** and **Express**
+- 📱 Design **database schemas** with **MongoDB** and **MySQL**
 - ☁️ Deploy applications on **AWS** and modern hosting platforms
-- 🧮 Solve algorithmic challenges on **LeetCode**, **Codeforces**, **HackerRank**
 
 ### 🎯 Current Goals
 
@@ -49,56 +48,53 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python&theme=dark" />
 </p>
 
-### 🎨 Frontend Technologies  
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring boot,nodejs,express&theme=dark" />
 </p>
 
-</td>
-<td align="center" width="50%">
+### 🗄️ Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
+</p>
 
 ### ☁️ Cloud & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,render&theme=dark" />
 </p>
 
-### 🔧 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
-</p>
+### 🔧 Tools & Platforms
 
-### 🖥️ Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,ubuntu&theme=dark" />
 </p>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 ---
