@@ -6,10 +6,18 @@ Software Engineer focused on scalable web applications and real-time systems.
 </p>
 
 <p align="center">
-  <a href="mailto:levanhuuthai2004@gmail.com">Email</a> •
-  <a href="https://github.com/HuuThai2910">GitHub</a> •
+  <a href="mailto:levanhuuthai2004@gmail.com">
+    levanhuuthai2004@gmail.com
+  </a>
+  •
+  <a href="https://github.com/HuuThai2910">
+    github.com/HuuThai2910
+  </a>
+  •
   Ho Chi Minh City, Vietnam
 </p>
+
+
 
 ---
 
@@ -74,10 +82,8 @@ Online bookstore system for customer and admin platforms.
 
 **Tech Stack**
 
-```txt
 Spring Boot • ReactJS • MariaDB
 AWS EC2 • AWS RDS • AWS S3
-```
 
 Repository:
 https://github.com/HuuThai2910/wisdom-books
