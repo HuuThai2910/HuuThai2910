@@ -5,21 +5,7 @@
 Software Engineer focused on scalable web applications and real-time systems.
 </p>
 
-<p align="center">
-  <a href="mailto:levanhuuthai2004@gmail.com">
-    levanhuuthai2004@gmail.com
-  </a>
-  •
-  <a href="https://github.com/HuuThai2910">
-    github.com/HuuThai2910
-  </a>
-  •
-  Ho Chi Minh City, Vietnam
-</p>
 
-<p align="center">
-  Java • Spring Boot • ReactJS • Redis • AWS
-</p>
 
 ---
 
@@ -37,22 +23,33 @@ Currently focusing on:
 
 ---
 
+
 ## Tech Stack
 
+<div align="center">
+
 ### Languages
-Java • JavaScript • TypeScript
+
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 
 ### Backend
-Spring Boot • Node.js • Express
 
-### Frontend
-ReactJS • React Native
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Databases
-MySQL • PostgreSQL • MariaDB • MongoDB • Redis
+### Frontend & Mobile
 
-### Cloud & Tools
-AWS • Docker • GitHub • Postman
+<img src="https://skillicons.dev/icons?i=react" />
+
+### Databases & Cache
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+
+### Cloud & Dev Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+
+</div>
+
 
 ---
 
@@ -60,7 +57,15 @@ AWS • Docker • GitHub • Postman
 
 ### Wisdom Social
 
-Social networking platform supporting real-time communication across web and mobile platforms.
+> Social networking platform supporting real-time communication across web and mobile platforms.
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
 #### Highlights
 
@@ -70,10 +75,6 @@ Social networking platform supporting real-time communication across web and mob
 - Implemented Redis caching to reduce database load
 - Integrated AWS S3 for media storage
 
-#### Tech Stack
-
-Spring Boot • ReactJS • React Native • Redis • MongoDB • MariaDB • WebSocket • AWS S3
-
 #### Repository
 
 https://github.com/HuuThai2910/wisdom-social
@@ -82,7 +83,15 @@ https://github.com/HuuThai2910/wisdom-social
 
 ### Wisdom Books
 
-Online bookstore system for customer and admin platforms.
+> Online bookstore system for customer and admin platforms.
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VNPay-0055A4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+</p>
 
 #### Highlights
 
@@ -91,10 +100,6 @@ Online bookstore system for customer and admin platforms.
 - Implemented atomic updates to prevent overselling
 - Automated order expiration using scheduled tasks
 - Deployed backend services on AWS infrastructure
-
-#### Tech Stack
-
-Spring Boot • ReactJS • MariaDB • AWS EC2 • AWS RDS • AWS S3
 
 #### Repository
 
