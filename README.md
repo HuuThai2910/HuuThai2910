@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Le Van Huu Thai</h1>
 
 <p align="center">
@@ -114,4 +114,4 @@ Software Engineering — GPA: 3.55 / 4.0
 - Email: levanhuuthai2004@gmail.com
 - GitHub: https://github.com/HuuThai2910
 - Location: Ho Chi Minh City, Vietnam
-```
+
